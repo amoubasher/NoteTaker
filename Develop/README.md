@@ -12,10 +12,10 @@
   This application allows the user to write, save, and delete notes.
 
   ## Installation Instructions
-  npm i all dependencies, then 'node index' in your terminal.
+  Open your terminal & 'npm i' all dependencies, then 'node server' in your terminal.
 
   ## How to Use This Application
-  A user can keep their to-do list tidy and up-to-date with this app.
+  Type out the Title and Text of your note, then click the save icon in the top right corner. To delete a note, click the trash can icon next to the note you want to delete.
 
   ## Support For This Project
   GitHub
