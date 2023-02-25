@@ -28,4 +28,4 @@
   Email: [amoubasher@gmail.com](mailto:amoubasher@gmail.com)
   
   ## Link To Deployed App
-  https://tidy-notes.herokuapp.com/Links to an external site.
+  https://tidy-notes.herokuapp.com/
